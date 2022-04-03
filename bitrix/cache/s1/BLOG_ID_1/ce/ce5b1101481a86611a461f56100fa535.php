@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001648397857';
+$dateexpire = '001684397857';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{i:1;a:18:{s:2:"ID";s:1:"1";s:7:"USER_ID";s:1:"1";s:5:"ALIAS";N;s:11:"DESCRIPTION";N;s:6:"AVATAR";N;s:9:"INTERESTS";N;s:10:"LAST_VISIT";N;s:8:"DATE_REG";O:25:"Bitrix\\Main\\Type\\DateTime":1:{s:8:"'.chr(0).'*'.chr(0).'value";O:8:"DateTime":3:{s:4:"date";s:26:"2022-03-27 19:16:09.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Moscow";}}s:10:"ALLOW_POST";s:1:"Y";s:44:"BLOG_INTERNALS_BLOG_USER_USER_PERSONAL_PHOTO";N;s:35:"BLOG_INTERNALS_BLOG_USER_USER_LOGIN";s:16:"flowers3_flower4";s:34:"BLOG_INTERNALS_BLOG_USER_USER_NAME";s:6:"Flower";s:39:"BLOG_INTERNALS_BLOG_USER_USER_LAST_NAME";s:6:"Bottle";s:12:"BLOG_USER_ID";s:1:"1";s:8:"BlogUser";a:12:{s:5:"ALIAS";N;s:6:"~ALIAS";N;s:11:"DESCRIPTION";N;s:12:"~DESCRIPTION";N;s:9:"INTERESTS";N;s:10:"~INTERESTS";N;s:8:"DATE_REG";s:19:"27.03.2022 19:16:09";s:2:"ID";s:1:"1";s:7:"USER_ID";s:1:"1";s:6:"AVATAR";N;s:10:"ALLOW_POST";s:1:"Y";s:11:"AVATAR_file";b:0;}s:11:"AUTHOR_NAME";s:13:"Flower Bottle";s:12:"~AUTHOR_NAME";s:13:"Flower Bottle";s:6:"arUser";a:8:{s:2:"ID";s:1:"1";s:3:"~ID";s:1:"1";s:4:"NAME";s:6:"Flower";s:5:"~NAME";s:6:"Flower";s:9:"LAST_NAME";s:6:"Bottle";s:10:"~LAST_NAME";s:6:"Bottle";s:5:"LOGIN";s:16:"flowers3_flower4";s:6:"~LOGIN";s:16:"flowers3_flower4";}}}}';
+return true;
+?>

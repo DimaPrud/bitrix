@@ -1,0 +1,6 @@
+<?php
+
+$arTemplate = [
+    'NAME' => '',
+    'DESCRIPTION' => ''
+];
